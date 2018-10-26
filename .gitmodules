@@ -1,0 +1,6 @@
+[submodule "dnlib"]
+	path = dnlib
+	url = https://github.com/0xd4d/dnlib.git
+[submodule "de4dot"]	
+	path = de4dot
+	url = https://github.com/0xd4d/de4dot.git
